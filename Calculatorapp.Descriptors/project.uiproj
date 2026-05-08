@@ -1,0 +1,6 @@
+{
+  "Name": "Calculatorapp.Descriptors",
+  "ProjectType": "Library",
+  "Description": "Calculator app UI Library",
+  "MainFile": "NewActivity.xaml"
+}

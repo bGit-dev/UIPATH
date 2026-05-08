@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Divide",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "HhH6sYoj0EKnQXXs4hD2sw",
+  "Reference": "rhq7mApqVEmFuyPUWA2WLg/HhH6sYoj0EKnQXXs4hD2sw",
+  "ParentRef": "rhq7mApqVEmFuyPUWA2WLg/aFWsE9kPxk2uep5ogmMS4A",
+  "Created": "2026-05-08T01:51:41.9436126Z",
+  "Updated": "2026-05-08T01:51:41.9436126Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

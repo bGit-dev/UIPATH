@@ -1,0 +1,6 @@
+{
+  "Name": "ObjectRepository",
+  "ProjectType": "Library",
+  "Description": "Calculator App",
+  "MainFile": "NewActivity.xaml"
+}

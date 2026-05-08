@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Calculator app",
+  "Type": "App",
+  "Id": "U33QtRELlEW7a0GBXoSfew",
+  "Reference": "rhq7mApqVEmFuyPUWA2WLg/U33QtRELlEW7a0GBXoSfew",
+  "Created": "2026-05-08T01:51:40.5526351Z",
+  "Updated": "2026-05-08T01:51:40.5526351Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

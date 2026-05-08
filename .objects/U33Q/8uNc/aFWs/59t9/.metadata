@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Dynamic _Number",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "59t9HxjqL0-4DL6G70yOeA",
+  "Reference": "rhq7mApqVEmFuyPUWA2WLg/59t9HxjqL0-4DL6G70yOeA",
+  "ParentRef": "rhq7mApqVEmFuyPUWA2WLg/aFWsE9kPxk2uep5ogmMS4A",
+  "Created": "2026-05-08T01:51:42.0567437Z",
+  "Updated": "2026-05-08T01:51:42.0567437Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

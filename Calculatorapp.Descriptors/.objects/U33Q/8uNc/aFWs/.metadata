@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Calculator",
+  "Type": "Screen",
+  "Id": "aFWsE9kPxk2uep5ogmMS4A",
+  "Reference": "NfuVNzIorUS2Ds09jvZegw/aFWsE9kPxk2uep5ogmMS4A",
+  "ParentRef": "NfuVNzIorUS2Ds09jvZegw/8uNc4to590qmm7Sx4oIGAg",
+  "Created": "2026-05-08T01:55:40.760456Z",
+  "Updated": "2026-05-08T01:55:40.760456Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

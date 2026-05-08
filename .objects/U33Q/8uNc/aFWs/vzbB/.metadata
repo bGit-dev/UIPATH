@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Minus",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "vzbBLknxRE-yjpnROl9ziw",
+  "Reference": "rhq7mApqVEmFuyPUWA2WLg/vzbBLknxRE-yjpnROl9ziw",
+  "ParentRef": "rhq7mApqVEmFuyPUWA2WLg/aFWsE9kPxk2uep5ogmMS4A",
+  "Created": "2026-05-08T01:51:41.7095461Z",
+  "Updated": "2026-05-08T01:51:41.7095461Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
